@@ -1,5 +1,5 @@
 # PersistentBugger
-This is a solution for "Persistent Bugger" - 6-kyu exercise from codewars.com:
+This is a solution for "Persistent Bugger" - 6-kyu exercise from codewars.com:</br>
 
 Write a function, persistence, that takes in a positive parameter num and 
 returns its multiplicative persistence, which is the number of times you must multiply 
